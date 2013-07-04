@@ -1,6 +1,6 @@
 == Getting Started
 
-1. git clone <git repository>
+1. git clone git@github.com:roughneck/mwrapper.git
 2. rake railties:install:migrations
 3. rake db:migrate
 4. rails s
