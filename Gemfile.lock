@@ -1,11 +1,13 @@
-PATH
-  remote: /Users/pbartels/Sites/m1
+GIT
+  remote: git@github.com:roughneck/m1.git
+  revision: b4e93cd89408e49767a6a2cc4319a2e989d3ca75
   specs:
     m1 (0.0.1)
       rails (~> 3.2.13)
 
-PATH
-  remote: /Users/pbartels/Sites/m2
+GIT
+  remote: git@github.com:roughneck/m2.git
+  revision: 2d13486d9f751ddac74f955d152f24c6aabf6e9b
   specs:
     m2 (0.0.1)
       rails (~> 3.2.13)

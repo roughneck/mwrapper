@@ -37,5 +37,5 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-gem 'm1', path: '/Users/pbartels/Sites/m1'
-gem 'm2', path: '/Users/pbartels/Sites/m2'
+gem 'm1', git: 'git@github.com:roughneck/m1.git'
+gem 'm2', git: 'git@github.com:roughneck/m2.git'
